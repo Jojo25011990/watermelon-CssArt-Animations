@@ -5,7 +5,7 @@
 
 # Screenshot
 
-![](./Screenshot%20Adidas%20Logo.png)
+![](./Screenshot%20watermelon%20css%20art%20and%20animation.png)
 
 # Build with
 
